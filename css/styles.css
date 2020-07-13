@@ -3,6 +3,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
+ 
 }
 
 h1 {
@@ -30,7 +31,7 @@ p {
 }
 
 hr {
-  border: dotted #EAF6F6 6px;
+  border: dotted rgb(110, 120, 124) 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
@@ -51,6 +52,7 @@ a:hover {
   background-color: #E4F9F5;
   position: relative;
   padding-top: 100px;
+
 }
 
 .middle-container {
@@ -79,7 +81,7 @@ a:hover {
 
 .contact-message {
   width: 40%;
-  margin: 40px auto 60px;
+  margin: 20px auto 30px;
 }
 
 .copyright {
@@ -113,6 +115,21 @@ a:hover {
   margin-left: 30px;
   border-radius:170px;
 }
+.achiev-cam{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  
+}
+.dropbtn {
+  background-color: #3498DB;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+
 
 .btn {
   background: #11cdd4;
